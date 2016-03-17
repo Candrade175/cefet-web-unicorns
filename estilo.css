@@ -1,3 +1,35 @@
-div2 {
+div[ID="cabecalho"] {
 	background-color: #6175f0;
+}
+
+div[ID="hoje"] {
+	float: right;
+}
+
+div[ID="musica"] {
+	margin-left: 12px;
+}
+
+h1 {
+	color: white;
+	font-family: "Kaushan Script";
+	font-size: 36px;
+	padding-top: 20px;
+	padding-left: 34px;
+}
+
+h2[ID="1"] {
+	color: white;
+	font-family: "Times New Roman";
+	font-size: 24px;
+	padding-bottom: 13px;
+	padding-left: 34px;
+}
+
+h2[ID="2"] {
+	clear: left;
+}
+
+img[ID="1"] {
+	float: left;
 }
