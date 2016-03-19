@@ -6,37 +6,55 @@ h1 {
 	padding-left: 34px;
 }
 
-h2[ID="1"] {
-	color: white;
-	font-family: "Times New Roman";
-	font-size: 24px;
-	padding-bottom: 13px;
-	padding-left: 34px;
-}
-
-h2[ID="2"] {
-	clear: left;
-}
-
-img[ID="1"] {
-	float: left;
-}
-
-p[ID="1"] {
-	margin-left: 34px;
-}
-
 #cabecalho {
 	background-color: #6175f0;
 }
 
 #hoje {
+	background-color: #f8cef7;
+	border-color: #ff56fb;
+	border-style: solid;
+	border-width: 1px;
 	float: right;
 	margin-right: 25px;
+	padding: 20px 35px 30px 35px;
+	text-align: center;
 	width: 405px;
+}
+
+#h2-1 {
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 24px;
+	padding-bottom: 13px;
+	padding-left: 34px;
+}
+
+
+#h2-2 {
+	clear: left;
+}
+
+#h2-3 {
+	color: black;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 24px;
+}
+
+#h3-1 {
+	font-family: "Times", Georgia, Serif;
+	font-size: 18px;
+}
+
+#img-1 {
+	float: left;
 }
 
 #musica {
 	margin-left: 12px;
 	width: 400px;
+}
+
+#p-1 {
+	margin-left: 34px;
 }
