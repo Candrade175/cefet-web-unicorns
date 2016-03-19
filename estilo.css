@@ -1,13 +1,13 @@
-h1 {
-	color: white;
-	font-family: "Kaushan Script";
-	font-size: 36px;
-	padding-top: 20px;
-	padding-left: 34px;
-}
-
 #cabecalho {
 	background-color: #6175f0;
+	background-position: top left;
+}
+
+.destacado {
+	background-color: #c4caf3;
+	color: #004a79;
+	padding-right: 1500px;
+	width: 400px;
 }
 
 #hoje {
@@ -17,14 +17,23 @@ h1 {
 	border-width: 1px;
 	float: right;
 	margin-right: 25px;
+	margin-top: 125px;
 	padding: 20px 35px 30px 35px;
 	text-align: center;
 	width: 405px;
 }
 
+h1 {
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 36px;
+	padding-top: 20px;
+	padding-left: 34px;
+}
+
 #h2-1 {
 	color: white;
-	font-family: "Times New Roman", Georgia, Serif;
+	font-family: 'Times New Roman', Georgia, Serif;
 	font-size: 24px;
 	padding-bottom: 13px;
 	padding-left: 34px;
@@ -32,17 +41,17 @@ h1 {
 
 
 #h2-2 {
-	clear: left;
+	padding-top: 40px;
 }
 
 #h2-3 {
 	color: black;
-	font-family: "Times New Roman", Georgia, Serif;
+	font-family: 'Times New Roman', Georgia, Serif;
 	font-size: 24px;
 }
 
 #h3-1 {
-	font-family: "Times", Georgia, Serif;
+	font-family: 'Times', Georgia, Serif;
 	font-size: 18px;
 }
 
@@ -50,8 +59,13 @@ h1 {
 	float: left;
 }
 
+#img-2 {
+	width: 30%;
+}
+
 #musica {
 	margin-left: 12px;
+	margin-top: 100px;	
 	width: 400px;
 }
 
